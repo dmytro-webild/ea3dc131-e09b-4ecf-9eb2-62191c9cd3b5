@@ -67,35 +67,35 @@ export default function LandingPage() {
           handle: "@travelguru",
           testimonial: "The best booking experience I've had. So easy to find the right stay!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/modern-woman-smiling-close-up_23-2148369441.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/modern-woman-smiling-close-up_23-2148369441.jpg?_wi=1",
         },
         {
           name: "Bob R.",
           handle: "@biztrips",
           testimonial: "Professional, reliable, and perfectly curated. Highly recommend for business trips.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/successful-young-businessman-formal-outfit-with-sunglasses-talking-phone_181624-33457.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/successful-young-businessman-formal-outfit-with-sunglasses-talking-phone_181624-33457.jpg?_wi=1",
         },
         {
           name: "Cathy P.",
           handle: "@vacaymode",
           testimonial: "Found my favorite boutique hotel in seconds. The UI is just beautiful.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-mixed-race-lovely-couple-with-glad-expressions-take-selfie-smartphone-camera-spend-vacation-together-dressed-casually-use-binoculars_273609-33400.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-mixed-race-lovely-couple-with-glad-expressions-take-selfie-smartphone-camera-spend-vacation-together-dressed-casually-use-binoculars_273609-33400.jpg?_wi=1",
         },
         {
           name: "David W.",
           handle: "@budgettravel",
           testimonial: "Great price filters and transparent pricing. No hidden fees!",
           rating: 4,
-          imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-holding-skateboard-walking-outside_23-2147654979.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-holding-skateboard-walking-outside_23-2147654979.jpg?_wi=1",
         },
         {
           name: "Elena K.",
           handle: "@globetrotter",
           testimonial: "Absolutely seamless booking process from start to finish.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/smiley-woman-with-backpack_23-2148518190.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiley-woman-with-backpack_23-2148518190.jpg?_wi=1",
         },
       ]}
       buttons={[
@@ -306,27 +306,27 @@ export default function LandingPage() {
         {
           id: "1",
           name: "Sarah J.",
-          imageSrc: "http://img.b2bpic.net/free-photo/modern-woman-smiling-close-up_23-2148369441.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/modern-woman-smiling-close-up_23-2148369441.jpg?_wi=2",
         },
         {
           id: "2",
           name: "Michael B.",
-          imageSrc: "http://img.b2bpic.net/free-photo/successful-young-businessman-formal-outfit-with-sunglasses-talking-phone_181624-33457.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/successful-young-businessman-formal-outfit-with-sunglasses-talking-phone_181624-33457.jpg?_wi=2",
         },
         {
           id: "3",
           name: "Elena K.",
-          imageSrc: "http://img.b2bpic.net/free-photo/happy-mixed-race-lovely-couple-with-glad-expressions-take-selfie-smartphone-camera-spend-vacation-together-dressed-casually-use-binoculars_273609-33400.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/happy-mixed-race-lovely-couple-with-glad-expressions-take-selfie-smartphone-camera-spend-vacation-together-dressed-casually-use-binoculars_273609-33400.jpg?_wi=2",
         },
         {
           id: "4",
           name: "James L.",
-          imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-holding-skateboard-walking-outside_23-2147654979.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/brunette-girl-holding-skateboard-walking-outside_23-2147654979.jpg?_wi=2",
         },
         {
           id: "5",
           name: "Sofia R.",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiley-woman-with-backpack_23-2148518190.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiley-woman-with-backpack_23-2148518190.jpg?_wi=2",
         },
       ]}
       cardTitle="Traveler Voices"
